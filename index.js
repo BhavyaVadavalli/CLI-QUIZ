@@ -34,8 +34,8 @@ quizList = [
     answer: "Biryani"
   },
   {
-    question: "Who is my favourite Teacher? \n",
-    answer: "Tanay Pratap"
+    question: "What is my fav cartoon ? \n",
+    answer: "Doeremon"
   },
   {
     question: "Do I prefer coffee or tea? \n ",
