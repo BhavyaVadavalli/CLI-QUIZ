@@ -57,6 +57,10 @@ quizList = [
     question: "What is my fav coding language? \n",
     answer: "Javascript"
   },
+  { 
+    question: "Am I a sports person? \n",
+    answer: "No"
+  }
   
 ]
 
